@@ -1,5 +1,5 @@
 talk_members = %w[A B C D E F]
-shuffled = talk_members.shuffle
+shuffled_members = talk_members.shuffle
 random_count = rand(2)
 
 if random_count == 0
